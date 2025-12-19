@@ -220,3 +220,4 @@ if export_each_color and group_by_color:
         print_progress(file_count, total_files, prefix=f'Сохранение файлов по цвету')
 
 print("\nГОТОВО ✅ Все SVG сохранены и готовы!")
+
